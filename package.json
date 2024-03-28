@@ -1,0 +1,48 @@
+{
+  "name": "web-vue-3-template",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview",
+    "prepare": "husky"
+  },
+  "dependencies": {
+    "@unocss/reset": "^0.58.7",
+    "animate.css": "^4.1.1",
+    "ant-design-vue": "^4.1.2",
+    "pinia": "^2.1.7",
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.0"
+  },
+  "devDependencies": {
+    "@typescript-eslint/parser": "^7.4.0",
+    "@unocss/preset-uno": "^0.58.7",
+    "@vitejs/plugin-vue": "^5.0.4",
+    "eslint": "^8.57.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-vue": "^9.24.0",
+    "husky": "^9.0.11",
+    "lint-staged": "^15.2.2",
+    "postcss-html": "^1.6.0",
+    "prettier": "^3.2.5",
+    "stylelint": "^16.3.1",
+    "stylelint-config-recess-order": "^5.0.0",
+    "stylelint-config-standard": "^36.0.0",
+    "stylelint-config-standard-vue": "^1.0.0",
+    "typescript": "^5.4.3",
+    "unocss": "^0.58.7",
+    "unplugin-auto-import": "^0.17.5",
+    "unplugin-vue-components": "^0.26.0",
+    "unplugin-vue-router": "^0.8.5",
+    "vite": "^5.2.6",
+    "vite-plugin-vue-devtools": "^7.0.25",
+    "vue-tsc": "^2.0.7"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0",
+    "pnpm": ">=8.0.0"
+  }
+}

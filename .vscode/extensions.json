@@ -1,0 +1,24 @@
+{
+  "recommendations": [
+    "hollowtree.vue-snippets",
+    "esbenp.prettier-vscode",
+    "ms-ceintl.vscode-language-pack-zh-hans",
+    "mikestead.dotenv",
+    "dbaeumer.vscode-eslint",
+    "mhutchie.git-graph",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-complete-tag",
+    "steoates.autoimport",
+    "formulahendry.auto-rename-tag",
+    "streetsidesoftware.code-spell-checker",
+    "naumovs.color-highlight",
+    "editorconfig.editorconfig",
+    "tobermory.es6-string-html",
+    "eamodio.gitlens",
+    "antfu.goto-alias",
+    "wix.vscode-import-cost",
+    "stylelint.vscode-stylelint",
+    "antfu.unocss",
+    "vue.volar"
+  ]
+}
